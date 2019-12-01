@@ -1,0 +1,145 @@
+dtrace: system integrity protection is on, some features will not be available
+SYSCALL(args) 		 = return
+...
+output
+...
+dtrace: error on enabled probe ID 2174 (ID 159: syscall::read:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2174 (ID 159: syscall::read:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2174 (ID 159: syscall::read:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2174 (ID 159: syscall::read:return): invalid kernel access in action #12 at DIF offset 68
+dtrace: error on enabled probe ID 2172 (ID 161: syscall::write:return): invalid kernel access in action #12 at DIF offset 68
+open("/dev/dtracehelper\0", 0x2, 0xFFFFFFFFE5066120)		 = 3 0
+ioctl(0x3, 0x80086804, 0x7FFEE5065F30)		 = 0 0
+close(0x3)		 = 0 0
+madvise(0x10AC32000, 0x2000, 0x5)		 = 0 0
+access("/AppleInternal/XBS/.isChrooted\0", 0x0, 0x0)		 = -1 Err#2
+bsdthread_register(0x7FFF61E3A400, 0x7FFF61E3A3F0, 0x2000)		 = 1073742047 0
+sysctlbyname(kern.bootargs, 0xD, 0x7FFEE5065380, 0x7FFEE5065370, 0x0)		 = 0 0
+issetugid(0x0, 0x0, 0x0)		 = 0 0
+ioctl(0x2, 0x4004667A, 0x7FFEE5064B84)		 = -1 Err#25
+ioctl(0x2, 0x40487413, 0x7FFEE5064B88)		 = -1 Err#25
+mprotect(0x10AC70000, 0x1000, 0x0)		 = 0 0
+mprotect(0x10AC75000, 0x1000, 0x0)		 = 0 0
+mprotect(0x10AC76000, 0x1000, 0x0)		 = 0 0
+mprotect(0x10AC7B000, 0x1000, 0x0)		 = 0 0
+mprotect(0x10AC6E000, 0x90, 0x1)		 = 0 0
+mprotect(0x10AC7C000, 0x1000, 0x1)		 = 0 0
+mprotect(0x10AC6E000, 0x90, 0x3)		 = 0 0
+mprotect(0x10AC6E000, 0x90, 0x1)		 = 0 0
+getentropy(0x7FFEE5064CD0, 0x20, 0x0)		 = 0 0
+getpid(0x0, 0x0, 0x0)		 = 43049 0
+stat64("/AppleInternal\0", 0x7FFEE50657F0, 0x0)		 = -1 Err#2
+csops(0xA829, 0x7, 0x7FFEE5065320)		 = -1 Err#22
+proc_info(0x2, 0xA829, 0xD)		 = 64 0
+csops(0xA829, 0x7, 0x7FFEE5064B60)		 = -1 Err#22
+issetugid(0x0, 0x0, 0x0)		 = 0 0
+issetugid(0x0, 0x0, 0x0)		 = 0 0
+sigaltstack(0x7FFEE5066AD8, 0x0, 0x0)		 = 0 0
+sigaction(0xB, 0x7FFEE5066AA8, 0x0)		 = 0 0
+lseek(0x0, 0x0, 0x1)		 = 194685 0
+lseek(0x1, 0x0, 0x1)		 = 105 0
+lseek(0x2, 0x0, 0x1)		 = 105 0
+open("./input\0", 0x1000000, 0x0)		 = 3 0
+lseek(0x3, 0x0, 0x1)		 = 0 0
+close(0x3)		 = 0 0
+
